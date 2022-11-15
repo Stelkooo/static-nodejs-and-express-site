@@ -1,0 +1,100 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+            "technologies": [
+                "JavaScript",
+                "Loops",
+                "Conditionals",
+                "Object Literals"
+            ],
+            "live_link": "https://stelkooo.github.io/a-random-quote-generator/",
+            "github_link": "https://github.com/Stelkooo/a-random-quote-generator",
+            "image_urls": [
+                "images\\a-random-quote-generator-landing.png",
+                "images\\a-random-quote-generator-one.png",
+                "images\\a-random-quote-generator-three.png",
+                "images\\a-random-quote-generator-two.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "App which displays several \\“pages\\” of student data that the user can easily navigate, filter, and view.",
+            "technologies": [
+                "JavaScript",
+                "Pagination",
+                "DOM",
+                "Search Function"
+            ],
+            "live_link": "https://stelkooo.github.io/data-pagination-and-filtering/",
+            "github_link": "https://github.com/Stelkooo/data-pagination-and-filtering",
+            "image_urls": [
+                "images\\data-pagination-and-filtering-landing.png",
+                "images\\data-pagination-and-filtering-one.png",
+                "images\\data-pagination-and-filtering-three.png",
+                "images\\data-pagination-and-filtering-two.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Enhancing a form so that it\\’s engaging, interactive, and easy to use",
+            "technologies": [
+                "JavaScript",
+                "Regular Expressions",
+                "String Manipulation",
+                "Form Validation"
+            ],
+            "live_link": "https://stelkooo.github.io/interactive-form/",
+            "github_link": "https://github.com/Stelkooo/interactive-form",
+            "image_urls": [
+                "images\\interactive-form-landing.png",
+                "images\\interactive-form-one.png",
+                "images\\interactive-form-three.png",
+                "images\\interactive-form-two.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "A browser-based, word guessing game.",
+            "technologies": [
+                "JavaScript",
+                "Object-Oriented Programming",
+                "Callback Functions"
+            ],
+            "live_link": "https://stelkooo.github.io/oop-game-show-app/",
+            "github_link": "https://github.com/Stelkooo/oop-game-show-app",
+            "image_urls": [
+                "images\\oop-game-show-app-landing.png",
+                "images\\oop-game-show-app-one.png",
+                "images\\oop-game-show-app-three.png",
+                "images\\oop-game-show-app-two.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "An employee directory created by communicating with a third-party API",
+            "technologies": [
+                "JavaScript",
+                "API Requests",
+                "HTTP",
+                "AJAX",
+                "Fetch API",
+                "Asynchronous Programming"
+            ],
+            "live_link": "https://stelkooo.github.io/public-api-requests/",
+            "github_link": "https://github.com/Stelkooo/public-api-requests",
+            "image_urls": [
+                "images\\public-api-requests-landing.png",
+                "images\\public-api-requests-one.png",
+                "images\\public-api-requests-three.png",
+                "images\\public-api-requests-two.png"
+            ]
+        }
+    ]
+}
