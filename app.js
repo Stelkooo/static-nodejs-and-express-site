@@ -20,8 +20,6 @@ app.get("/projects/:id", (req, res) => {
     res.render("project", { project });
 });
 
-app.get("/error", (req, res) => res.send(error()));
-
 app.use((req, res, next) => {;
     res.status(404).render("page-not-found");
 });
