@@ -13,10 +13,10 @@
             "live_link": "https://stelkooo.github.io/a-random-quote-generator/",
             "github_link": "https://github.com/Stelkooo/a-random-quote-generator",
             "image_urls": [
-                "images\\a-random-quote-generator-landing.png",
-                "images\\a-random-quote-generator-one.png",
-                "images\\a-random-quote-generator-three.png",
-                "images\\a-random-quote-generator-two.png"
+                "static\\images\\a-random-quote-generator-landing.png",
+                "static\\images\\a-random-quote-generator-one.png",
+                "static\\images\\a-random-quote-generator-three.png",
+                "static\\images\\a-random-quote-generator-two.png"
             ]
         },
         {
@@ -32,10 +32,10 @@
             "live_link": "https://stelkooo.github.io/data-pagination-and-filtering/",
             "github_link": "https://github.com/Stelkooo/data-pagination-and-filtering",
             "image_urls": [
-                "images\\data-pagination-and-filtering-landing.png",
-                "images\\data-pagination-and-filtering-one.png",
-                "images\\data-pagination-and-filtering-three.png",
-                "images\\data-pagination-and-filtering-two.png"
+                "static\\images\\data-pagination-and-filtering-landing.png",
+                "static\\images\\data-pagination-and-filtering-one.png",
+                "static\\images\\data-pagination-and-filtering-three.png",
+                "static\\images\\data-pagination-and-filtering-two.png"
             ]
         },
         {
@@ -51,10 +51,10 @@
             "live_link": "https://stelkooo.github.io/interactive-form/",
             "github_link": "https://github.com/Stelkooo/interactive-form",
             "image_urls": [
-                "images\\interactive-form-landing.png",
-                "images\\interactive-form-one.png",
-                "images\\interactive-form-three.png",
-                "images\\interactive-form-two.png"
+                "static\\images\\interactive-form-landing.png",
+                "static\\images\\interactive-form-one.png",
+                "static\\images\\interactive-form-three.png",
+                "static\\images\\interactive-form-two.png"
             ]
         },
         {
@@ -69,10 +69,10 @@
             "live_link": "https://stelkooo.github.io/oop-game-show-app/",
             "github_link": "https://github.com/Stelkooo/oop-game-show-app",
             "image_urls": [
-                "images\\oop-game-show-app-landing.png",
-                "images\\oop-game-show-app-one.png",
-                "images\\oop-game-show-app-three.png",
-                "images\\oop-game-show-app-two.png"
+                "static\\images\\oop-game-show-app-landing.png",
+                "static\\images\\oop-game-show-app-one.png",
+                "static\\images\\oop-game-show-app-three.png",
+                "static\\images\\oop-game-show-app-two.png"
             ]
         },
         {
@@ -90,10 +90,10 @@
             "live_link": "https://stelkooo.github.io/public-api-requests/",
             "github_link": "https://github.com/Stelkooo/public-api-requests",
             "image_urls": [
-                "images\\public-api-requests-landing.png",
-                "images\\public-api-requests-one.png",
-                "images\\public-api-requests-three.png",
-                "images\\public-api-requests-two.png"
+                "static\\images\\public-api-requests-landing.png",
+                "static\\images\\public-api-requests-one.png",
+                "static\\images\\public-api-requests-three.png",
+                "static\\images\\public-api-requests-two.png"
             ]
         }
     ]
