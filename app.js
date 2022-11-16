@@ -14,8 +14,10 @@ app.get("/about", (req, res) => {
     res.render("about");
 });
 
-app.get("/project", (req, res) => {
-    res.render("project");
+app.get("/projects/:id", (req, res) => {
+    const { id } = req.params;
+    const project = projects[id];
+    res.render("project", { project });
 });
 
 app.use((req, res, next) => {
