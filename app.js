@@ -20,16 +20,14 @@ app.get("/projects/:id", (req, res) => {
     res.render("project", { project });
 });
 
-app.use((req, res, next) => {
-    const err = new Error("Not Found");
-    err.status = 404;
-    next(err);
+app.get("/error", (req, res) => res.send(error()));
+
+app.use((req, res, next) => {;
+    res.status(404).render("page-not-found");
 });
 
 app.use((err, req, res, next) => {
-    res.locals.error = err;
-    res.status(err.status);
-    res.render('error');
+    res.status(500).render('error', { err });
 });
 
 app.listen(3000, () => {
