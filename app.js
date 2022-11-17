@@ -20,7 +20,8 @@ app.get("/projects/:id", (req, res) => {
     res.render("project", { project });
 });
 
-app.use((req, res, next) => {;
+app.use((req, res, next) => {
+    console.log('Uh no! An error occurred!');
     res.status(404).render("page-not-found");
 });
 
