@@ -26,7 +26,7 @@ app.use((req, res, next) => {
 });
 
 app.use((err, req, res, next) => {
-    console.log(err.status);
+    console.log("Uh no! Something went wrong!");
     res.status(500).render('error', { err });
 });
 
