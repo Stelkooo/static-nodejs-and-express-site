@@ -4,3 +4,7 @@ block content
     article
         .box
             h1 Page Not Found
+            if err 
+                h2= err.message
+                h3= err.status
+                pre= err.stack
